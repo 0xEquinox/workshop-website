@@ -65,7 +65,7 @@
                                 <path d="M12.75 12.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM7.5 15.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM8.25 17.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM9.75 15.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM10.5 17.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM12 15.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM12.75 17.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM14.25 15.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM15 17.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM16.5 15.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM15 12.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM16.5 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" />
                                 <path fill-rule="evenodd" d="M6.75 2.25A.75.75 0 0 1 7.5 3v1.5h9V3A.75.75 0 0 1 18 3v1.5h.75a3 3 0 0 1 3 3v11.25a3 3 0 0 1-3 3H5.25a3 3 0 0 1-3-3V7.5a3 3 0 0 1 3-3H6V3a.75.75 0 0 1 .75-.75Zm13.5 9a1.5 1.5 0 0 0-1.5-1.5H5.25a1.5 1.5 0 0 0-1.5 1.5v7.5a1.5 1.5 0 0 0 1.5 1.5h13.5a1.5 1.5 0 0 0 1.5-1.5v-7.5Z" clip-rule="evenodd" />
                             </svg>
-                                April 23rd, 2023</p>
+                                April 23rd, 2023, 12-8pm</p>
                         </div>
                     </div>
                     <button  onclick="window.location.href='https://forms.gle/ottDRT8QXbhQqCE5A';" class="bg-blue-500 text-white text-2xl font-bold rounded-lg p-2">
@@ -113,7 +113,7 @@
                             <Heading>About</Heading>
                         </div>
                         <p class="w-screen px-2 py-4 font-semibold md:w-auto">
-                            During the electronics workshop, attendees will learn about basic electronics and soldering by building a mp3 player kit that I've designed over the last few months. This is a great opportunity to learn about electronics and go home with a new mp3 player!
+                            During the electronics workshop, attendees will learn about basic electronics and soldering by building a mp3 player kit that I've designed over the last few months. This is a great opportunity to learn about electronics and go home with a new mp3 player! After the workshop, participants will compete to create the best hardware project.
                         </p>
                     </div>
 
@@ -122,12 +122,13 @@
                             <Heading>Details</Heading>
                         </div>
                         <p class="w-screen px-2 py-4 font-semibold md:w-auto">
-                            When: April 23rd <br />
+                            When: April 23rd, 12-8pm <br />
                             Where: Redmond Library (15990 NE 85th Street
                             Redmond, WA 98052)
                             <br />
                             Who: Any high school student <br />
-                            Why: because it's fun!
+                            Why: because it's fun! <br/>
+                            Cost: 100% free of charge
                         </p>
                     </div>
                 </div>
