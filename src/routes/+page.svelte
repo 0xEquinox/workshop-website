@@ -51,7 +51,7 @@
             <div class="mt-16 px-6 font-poppins text-gray-700 bg-blue-100 flex items-center mb-64">
                 <div>
                     <h1 class="mb-2 text-left text-5xl font-bold leading-[1.2] sm:mb-6 sm:text-8xl">
-                        Electronics<br /> Workshop
+                        Bellevue<br /> Hardware <br/> Hackathon
                     </h1>
                     <div class="mb-8 flex sm:mb-12 sm:text-2xl">
                         <div class="mr-2 flex items-center">
@@ -104,7 +104,7 @@
                             <Heading>Who</Heading>
                         </div>
                         <p class="w-screen px-2 py-4 font-semibold md:w-auto">
-                            I am a senior at the Bellevue International school, and I've been working on this project for my senior project for the last couple months, and I'm excited to share what I've learned!
+                            I am a senior at the Bellevue International school, I noticed a lack of electronics knowledge in my area, so I've created this hackathon with the goal of empowering others with electronics--which is basically a superpower.
                         </p>
                     </div>
 
@@ -113,7 +113,7 @@
                             <Heading>About</Heading>
                         </div>
                         <p class="w-screen px-2 py-4 font-semibold md:w-auto">
-                            During the electronics workshop, attendees will learn about basic electronics and soldering by building a mp3 player kit that I've designed over the last few months. This is a great opportunity to learn about electronics and go home with a new mp3 player! After the workshop, participants will compete to create the best hardware project.
+                            During the hackathon, attendees will learn about basic electronics and soldering with a kit I've designed. After learning the basics, participants will compete to create the best hardware project out of the available materials, the best project will win a prize!
                         </p>
                     </div>
 
